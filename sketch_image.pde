@@ -1,4 +1,4 @@
-/* @pjs preload="nature.jpg"; */
+/* @pjs preload="38666.jpg"; */
 
 PImage photo;
 void setup() {
